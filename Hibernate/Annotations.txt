@@ -1,0 +1,15 @@
+
+@Id
+
+@Column
+
+@Entity
+
+@GeneratedValue
+
+@Param
+
+@Query
+
+@OneToOne
+
